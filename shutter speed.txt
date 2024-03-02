@@ -1,0 +1,1 @@
+shutter speed = 2500ms      
